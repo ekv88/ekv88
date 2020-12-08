@@ -24,7 +24,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://ekv-now-playing.vercel.app/api/spotify-playing" alt="ekv playlist" width="350" />](https://open.spotify.com/user/sa664offtseycw0wbljstxdrk)
+[<img src="https://ekv-now-playing.vercel.app/api/spotify-playing" alt="ekv playlist" width="470" />](https://open.spotify.com/user/sa664offtseycw0wbljstxdrk)
 
 
 ### 📊 GitHub Stats
