@@ -6,7 +6,6 @@
 * 🎸 I'm big on punk and metal music.
 * 🍺 And ofcourse beer!
 
-
 ### I ❤  working using:
 
 <img align="left" width="32px" src="https://raw.githubusercontent.com/ekv88/ekv88/main/icons/babel.svg"/>
@@ -20,6 +19,7 @@
 <img align="left" width="32px" src="https://raw.githubusercontent.com/ekv88/ekv88/main/icons/redhat.svg"/>
 <img align="left" width="32px" src="https://raw.githubusercontent.com/ekv88/ekv88/main/icons/redux.svg"/>
 
+<br/>
 <br/>
 
 ### Spotify Playing 🎧
