@@ -1,4 +1,4 @@
-### Hi there, I'm Steafn a.k.a. [ekv][website] 👋
+### Hi there, I'm Stefan a.k.a. [ekv][website] 👋
 
 * 📖  I'm self taught developer.
 * 🤖  Currently looking to dig in AI and ML field.
